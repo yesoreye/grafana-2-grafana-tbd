@@ -1,0 +1,9 @@
+{
+  "config": {
+    "grafana": {
+      "username": "admin",
+      "password": "admin",
+      "url": "http://35.184.24.32:3000"
+    }
+  }
+}
