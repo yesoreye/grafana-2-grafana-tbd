@@ -3,7 +3,7 @@
     "grafana": {
       "username": "admin",
       "password": "admin",
-      "url": "http://35.184.24.32:3000"
+      "url": "http://104.197.56.32:3000"
     }
   }
 }
